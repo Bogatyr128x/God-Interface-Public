@@ -1,0 +1,576 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.0b5 (e2067236bd5c) revision 14812786'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 15281 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.0b5\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+X:/Users/Demonio/Documents/GitHub/God-Interface
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58469
+Successfully changed project path to: X:/Users/Demonio/Documents/GitHub/God-Interface
+X:/Users/Demonio/Documents/GitHub/God-Interface
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 33.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0b5 (e2067236bd5c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0b5/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path X:/Users/Demonio/Documents/GitHub/God-Interface/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GT 1030 (ID=0x1d01)
+    Vendor:   
+    VRAM:     1982 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b5/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b5/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b5/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56032
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b5/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001357 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.940 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000847 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image X:\Users\Demonio\Documents\GitHub\God-Interface\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.810 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2011 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 87.6 MB.
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 2409.
+Total: 3.452800 ms (FindLiveObjects: 0.457500 ms CreateObjectMapping: 0.074400 ms MarkObjects: 1.732900 ms  DeleteObjects: 1.187000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Shaders
+  artifactKey: Guid(91223b79cd975b3469ec322e296cc9d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders using Guid(91223b79cd975b3469ec322e296cc9d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24c59ff7422384324869bbf9b93b8c17') in 0.012786 seconds
+  Import took 0.016890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.335858 seconds.
+  path: Assets/Shaders/New Material.mat
+  artifactKey: Guid(83f5639aa812b0d43ba7d3f04a4c9c8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/New Material.mat using Guid(83f5639aa812b0d43ba7d3f04a4c9c8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9ed420ec0ae4d94adc98012bbfe1b3b') in 0.132225 seconds
+  Import took 0.136665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.851813 seconds.
+  path: Assets/Shaders/New Shader Graph.shadergraph
+  artifactKey: Guid(eb7c17976b50a5d4388a1a06a11bba54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/New Shader Graph.shadergraph using Guid(eb7c17976b50a5d4388a1a06a11bba54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d17ac1d288fc153053fdc5d8d162174') in 0.009099 seconds
+  Import took 0.013561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002526 seconds.
+  path: Assets/Shaders/New Shader Graph.shadergraph
+  artifactKey: Guid(eb7c17976b50a5d4388a1a06a11bba54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/New Shader Graph.shadergraph using Guid(eb7c17976b50a5d4388a1a06a11bba54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d17ac1d288fc153053fdc5d8d162174') in 0.003378 seconds
+  Import took 0.009232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.057035 seconds.
+  path: Assets/Shaders/Folder
+  artifactKey: Guid(16c96f2badb811f46884840fd10bcdbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Folder using Guid(16c96f2badb811f46884840fd10bcdbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5163a1780c0a573c32b8398b895fcb4a') in 0.007743 seconds
+  Import took 0.012042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.178642 seconds.
+  path: Assets/Shaders/Universe
+  artifactKey: Guid(16c96f2badb811f46884840fd10bcdbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe using Guid(16c96f2badb811f46884840fd10bcdbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78b59df640039267a83fd2e6a884f9b2') in 0.008161 seconds
+  Import took 0.012937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.602927 seconds.
+  path: Assets/Shaders/Universe/UniverseBackground.shadergraph
+  artifactKey: Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/UniverseBackground.shadergraph using Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acb32af33b1bb1b6df63162e3586fc1d') in 0.008353 seconds
+  Import took 0.013515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.972819 seconds.
+  path: Assets/Shaders/Universe/UniverseBackground.mat
+  artifactKey: Guid(e6fce88c08e494141aafdf10428f3116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/UniverseBackground.mat using Guid(e6fce88c08e494141aafdf10428f3116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40958a185d3efc09c816110d7b8f46b6') in 0.015548 seconds
+  Import took 0.019940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.100414 seconds.
+  path: Assets/Shaders/Universe/UniverseBackground_Shader.shadergraph
+  artifactKey: Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/UniverseBackground_Shader.shadergraph using Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db4b610386e0f7b314a5c5c3d8ebd99e') in 0.007975 seconds
+  Import took 0.012749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.746079 seconds.
+  path: Assets/Images
+  artifactKey: Guid(274df27740f994547a2907f0191c0652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images using Guid(274df27740f994547a2907f0191c0652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '074a531130bb21cbdbce2e36fa80e4bc') in 0.007679 seconds
+  Import took 0.012841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/Images
+  artifactKey: Guid(274df27740f994547a2907f0191c0652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images using Guid(274df27740f994547a2907f0191c0652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '074a531130bb21cbdbce2e36fa80e4bc') in 0.002002 seconds
+  Import took 0.006018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 307.535062 seconds.
+  path: Assets/Images/AbsoluteNothingness.png
+  artifactKey: Guid(be27cda3ffcd794468b51223db66ac72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/AbsoluteNothingness.png using Guid(be27cda3ffcd794468b51223db66ac72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e3c516014fae197c1b130b6d3535524') in 0.063681 seconds
+  Import took 0.069510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.444959 seconds.
+  path: Assets/Images/AbsoluteNothingness.png
+  artifactKey: Guid(be27cda3ffcd794468b51223db66ac72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/AbsoluteNothingness.png using Guid(be27cda3ffcd794468b51223db66ac72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436caa239ff2f28c1ca5c4007a920c75') in 0.020955 seconds
+  Import took 0.025649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.354402 seconds.
+  path: Assets/Shaders/Universe/UniverseBackground_Shader.shadergraph
+  artifactKey: Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/UniverseBackground_Shader.shadergraph using Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1a5ad204893a6f53da4ffae78b0c89c') in 0.003568 seconds
+  Import took 0.008569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.082171 seconds.
+  path: Assets/UniversalRenderPipelineAsset.asset
+  artifactKey: Guid(707acd5411b89cb459a0b1aed7d8d7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineAsset.asset using Guid(707acd5411b89cb459a0b1aed7d8d7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de33f9379399cccf8a7eaac66778ff10') in 0.312027 seconds
+  Import took 0.317404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(1b2e586643441f446873473f2cfd9b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineAsset_Renderer.asset using Guid(1b2e586643441f446873473f2cfd9b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39405f7c7bfedc9ce5e12aa071a0ba35') in 0.028717 seconds
+  Import took 0.033688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005305 seconds.
+  path: Assets/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(1b2e586643441f446873473f2cfd9b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineAsset_Renderer.asset using Guid(1b2e586643441f446873473f2cfd9b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39405f7c7bfedc9ce5e12aa071a0ba35') in 0.014235 seconds
+  Import took 0.020078 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 45 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 54.6 MB.
+System memory in use after: 52.7 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 2454.
+Total: 4.078500 ms (FindLiveObjects: 0.500500 ms CreateObjectMapping: 0.180700 ms MarkObjects: 2.316400 ms  DeleteObjects: 1.079100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.794443 seconds.
+  path: Assets/Shaders/Universe/UniverseBackground_Shader.shadergraph
+  artifactKey: Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/UniverseBackground_Shader.shadergraph using Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e74e2a54dbb0903c23529b0edf95e25') in 0.005173 seconds
+  Import took 0.009594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.801823 seconds.
+  path: Assets/Shaders/Universe/UniverseBackground_Shader.shadergraph
+  artifactKey: Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/UniverseBackground_Shader.shadergraph using Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '326e22ce2491349b510b061d358fec97') in 0.003212 seconds
+  Import took 0.007602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1207.352521 seconds.
+  path: Assets/Shaders/Universe/UniverseBackground_Shader.shadergraph
+  artifactKey: Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/UniverseBackground_Shader.shadergraph using Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e681d9a6ca9044f03e0d0651c9a7ed55') in 0.010667 seconds
+  Import took 0.015238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.173234 seconds.
+  path: Assets/Shaders/Universe/UniverseBackground_Shader.shadergraph
+  artifactKey: Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/UniverseBackground_Shader.shadergraph using Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18f091f840e1ecd3ecb71c00abe15cc9') in 0.003567 seconds
+  Import took 0.009093 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b5/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001291 seconds.
+Symbol file LoadedFromMemory doesn't match image X:\Users\Demonio\Documents\GitHub\God-Interface\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 31.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.865 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000962 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image X:\Users\Demonio\Documents\GitHub\God-Interface\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.772 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 48 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 54.8 MB.
+System memory in use after: 52.9 MB.
+
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 2458.
+Total: 3.098000 ms (FindLiveObjects: 0.360800 ms CreateObjectMapping: 0.069200 ms MarkObjects: 1.439400 ms  DeleteObjects: 1.227900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 124.905682 seconds.
+  path: Assets/Shaders/Universe/UniverseBackground_Shader.shadergraph
+  artifactKey: Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/UniverseBackground_Shader.shadergraph using Guid(c29780198d6d59347b9e13a86c538f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892bed6b744d4ba9b8cecd6a4f59c225') in 0.010263 seconds
+  Import took 0.014389 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b5/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001291 seconds.
+Symbol file LoadedFromMemory doesn't match image X:\Users\Demonio\Documents\GitHub\God-Interface\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.956 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001218 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image X:\Users\Demonio\Documents\GitHub\God-Interface\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.871 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 48 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.5 MB.
+System memory in use after: 53.6 MB.
+
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 2462.
+Total: 3.045200 ms (FindLiveObjects: 0.480700 ms CreateObjectMapping: 0.071100 ms MarkObjects: 1.428200 ms  DeleteObjects: 1.064200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 148.301027 seconds.
+  path: Assets/Shaders/Universe/BlackHole.shadergraph
+  artifactKey: Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/BlackHole.shadergraph using Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9fb8b8493406534f0871fbb9a9fc2b1') in 0.015854 seconds
+  Import took 0.020022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.119413 seconds.
+  path: Assets/Shaders/Universe/BlackHole.shadergraph
+  artifactKey: Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/BlackHole.shadergraph using Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9fb8b8493406534f0871fbb9a9fc2b1') in 0.003742 seconds
+  Import took 0.008553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.094009 seconds.
+  path: Assets/Shaders/Universe/BlackHole.mat
+  artifactKey: Guid(5608d10da91f8aa44bb944aed860ed04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/BlackHole.mat using Guid(5608d10da91f8aa44bb944aed860ed04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6330aa5c30aaa81f50b88ad9f36fb836') in 0.058537 seconds
+  Import took 0.062811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Shaders/Universe/UniverseBackground.mat
+  artifactKey: Guid(e6fce88c08e494141aafdf10428f3116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/UniverseBackground.mat using Guid(e6fce88c08e494141aafdf10428f3116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44508c3117605c2b804543e925e0c6f0') in 0.014745 seconds
+  Import took 0.019316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.992639 seconds.
+  path: Assets/Shaders/Universe/BlackHole_Shader.shadergraph
+  artifactKey: Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/BlackHole_Shader.shadergraph using Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '460569084f751542ba5c56aa3715bf2f') in 0.008723 seconds
+  Import took 0.013142 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b5/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001465 seconds.
+Symbol file LoadedFromMemory doesn't match image X:\Users\Demonio\Documents\GitHub\God-Interface\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 44.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.076 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001119 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image X:\Users\Demonio\Documents\GitHub\God-Interface\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.090 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 96 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.5 MB.
+System memory in use after: 59.1 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2524.
+Total: 3.181300 ms (FindLiveObjects: 0.428100 ms CreateObjectMapping: 0.079600 ms MarkObjects: 1.628900 ms  DeleteObjects: 1.043400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 794.418594 seconds.
+  path: Assets/Shaders/Universe/BlackHole_Shader.shadergraph
+  artifactKey: Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/BlackHole_Shader.shadergraph using Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c445a2c0c5137efd53ba07787061078d') in 0.012864 seconds
+  Import took 0.018133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.692952 seconds.
+  path: Assets/Shaders/Universe/BlackHole_Material.mat
+  artifactKey: Guid(5608d10da91f8aa44bb944aed860ed04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/BlackHole_Material.mat using Guid(5608d10da91f8aa44bb944aed860ed04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a5eac41dc5cc47fc38345ecf32f776') in 0.159851 seconds
+  Import took 0.165076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Shaders/Universe/UniverseBackground_Material.mat
+  artifactKey: Guid(e6fce88c08e494141aafdf10428f3116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/UniverseBackground_Material.mat using Guid(e6fce88c08e494141aafdf10428f3116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91af4a75a53b817a35b0c529b28bba13') in 0.028955 seconds
+  Import took 0.032735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004041 seconds.
+  path: Assets/Shaders/Universe/UniverseBackground_Material.mat
+  artifactKey: Guid(e6fce88c08e494141aafdf10428f3116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/UniverseBackground_Material.mat using Guid(e6fce88c08e494141aafdf10428f3116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91af4a75a53b817a35b0c529b28bba13') in 0.007356 seconds
+  Import took 0.012532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3373.151169 seconds.
+  path: Assets/Shaders/Universe/BlackHole_Shader.shadergraph
+  artifactKey: Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/BlackHole_Shader.shadergraph using Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68f3bb0742a9e12d8a54eafd7acb9400') in 0.009336 seconds
+  Import took 0.019613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.343484 seconds.
+  path: Assets/Shaders/Universe/BlackHole_Shader.shadergraph
+  artifactKey: Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/BlackHole_Shader.shadergraph using Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e8e8511ab262009ddf3fcab26f9d930') in 0.002914 seconds
+  Import took 0.007571 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b5/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001173 seconds.
+Symbol file LoadedFromMemory doesn't match image X:\Users\Demonio\Documents\GitHub\God-Interface\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.065 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000836 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image X:\Users\Demonio\Documents\GitHub\God-Interface\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.912 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.1 MB.
+System memory in use after: 58.7 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2578.
+Total: 3.268700 ms (FindLiveObjects: 0.410600 ms CreateObjectMapping: 0.073100 ms MarkObjects: 1.814200 ms  DeleteObjects: 0.970000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b5/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002220 seconds.
+Symbol file LoadedFromMemory doesn't match image X:\Users\Demonio\Documents\GitHub\God-Interface\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 47.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.244 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001029 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image X:\Users\Demonio\Documents\GitHub\God-Interface\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.193 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.5 MB.
+System memory in use after: 59.1 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2582.
+Total: 5.045500 ms (FindLiveObjects: 0.631200 ms CreateObjectMapping: 0.107700 ms MarkObjects: 2.955700 ms  DeleteObjects: 1.349000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4299.018823 seconds.
+  path: Assets/Shaders/Universe/BlackHole_Shader.shadergraph
+  artifactKey: Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/BlackHole_Shader.shadergraph using Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df1b4cbd250f5de4ef368c9f951bb36') in 0.011654 seconds
+  Import took 0.017008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 112.314640 seconds.
+  path: Assets/Shaders/Universe/BlackHole_Shader.shadergraph
+  artifactKey: Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Universe/BlackHole_Shader.shadergraph using Guid(16271d5892f290b429135bc968ecca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a298fec73a6806721c3165f388c6bc34') in 0.002667 seconds
+  Import took 0.007342 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
