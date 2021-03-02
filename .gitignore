@@ -1,0 +1,12 @@
+
+\Library\
+\Logs\
+\obj\
+\Packages\
+
+
+# track these files, if they exist
+!.gitignore
+!.editorconfig
+!.phpcs.xml.dist
+!.env.example
